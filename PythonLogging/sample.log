@@ -1,0 +1,18 @@
+INFO:root:Informational message
+ERROR:root:An error has happened!
+INFO:root:Informational message
+ERROR:root:An error has happeneed!
+INFO:root:Informational message
+ERROR:root:An error has happeneed!
+ERROR:ex:Error!
+Traceback (most recent call last):
+  File "C:\Users\B.B.KIM\Desktop\PM\PythonCoding\PythonLogging\simpleLogger.py", line 18, in <module>
+    raise RuntimeError
+RuntimeError
+INFO:root:Informational message
+ERROR:root:An error has happeneed!
+ERROR:ex:Error!
+Traceback (most recent call last):
+  File "C:\Users\B.B.KIM\Desktop\PM\PythonCoding\PythonLogging\simpleLogger.py", line 17, in <module>
+    raise RuntimeError
+RuntimeError
