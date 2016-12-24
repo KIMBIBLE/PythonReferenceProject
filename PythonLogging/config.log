@@ -1,0 +1,3 @@
+2016-12-24 16:51:04,093 - exampleApp - INFO - Program started
+2016-12-24 16:51:04,093 - exampleApp.otherMod.add - INFO - added 3 and 4 to get 7
+2016-12-24 16:51:04,093 - exampleApp - INFO - Done!
